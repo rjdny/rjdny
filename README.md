@@ -8,5 +8,5 @@ https://www.linkedin.com/in/downey-ryan/
 
 
 
-[![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![ ](https://github-readme-stats.vercel.app/api?username=rjdny&layout=compact&show_icons=true&theme=radical)
+[![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdny&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![ ](https://github-readme-stats.vercel.app/api?username=rjdny&layout=compact&show_icons=true&theme=radical)
 
