@@ -1,4 +1,4 @@
-Full Stack Software Developer
+Full Stack Web Software Developer
 https://www.linkedin.com/in/downey-ryan/
 
 
