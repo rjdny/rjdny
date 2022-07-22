@@ -1,4 +1,4 @@
-Full Stack Web Developer [Nashville Software School (5.16.22 - 11.4.22)]
+<b>Full Stack Web Developer</b>
 
 
 https://www.linkedin.com/in/downey-ryan/
