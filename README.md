@@ -1,7 +1,7 @@
 <b>Full Stack Web Developer</b>
 
 
-https://www.linkedin.com/in/downey-ryan/
+[LinkedIn](https://www.linkedin.com/in/downey-ryan/)
 
 >C# ~ JS ~ CSS ~ React ~ HTML ~ ReactStrap
 
