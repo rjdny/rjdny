@@ -1,4 +1,4 @@
-<b>Software Developerr</b>
+<b>Software Developer</b>
 
 
 [LinkedIn](https://www.linkedin.com/in/downey-ryan/)
