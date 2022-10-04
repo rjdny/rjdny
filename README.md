@@ -10,5 +10,5 @@
 
 
 
-[![ ](https://github-readme-stats-rjdny.vercel.app/api/top-langs/?username=rjdny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![ ](https://github-readme-stats-rjdny.vercel.app/api?username=rjdny&layout=compact&show_icons=true&theme=radical)
+[![ ](https://github-readme-stats-oqq46s03j-rjdny.vercel.app/api/top-langs/?username=rjdny&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![ ](https://github-readme-stats-oqq46s03j-rjdny.vercel.app/api?username=rjdny&layout=compact&show_icons=true&theme=radical)
 
