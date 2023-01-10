@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<h4>Working On: Notable `An app for all your notes!!` [Source WIP]<h4>
+<h4><h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjdny&label=Profile%20views&color=0e75b6&style=flat" alt="rjdny" /> </p>
 
